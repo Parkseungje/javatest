@@ -1,6 +1,6 @@
 package reference;
 
-public class Student {
+public class Student { // 이 Student 클래스 전체가 인스턴스 Park, Lee의 붕어빵틀이 된다.
 	
 	int studentId; // 학생 학번
 	String studentName; // 학생이름
